@@ -1,0 +1,2 @@
+export const ACCESS_KEY_ID = 'KASK7EYEGB28GL4QC948SQ1E';
+export const SECRET_ACCESS_KEY = 'opjYQd6LWnhfnZjQ-9l7EXzL2aNEIwBfEDif4f4i';
